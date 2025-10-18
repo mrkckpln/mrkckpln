@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @mrkckpln
-- 👀 I’m a software engineering student at Ostim Technical University
-- 🌱 I have been interested in Data Science for about 2 years.
-- 🌱 I am trying to improve myself and do projects in the field of artificial intelligence.
+### Hi there 👋, I'm @mrkckpln
 
-<!---
-mrkckpln/mrkckpln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineering student at Ostim Technical University, passionate about building intelligent applications powered by AI and Data.
+
+
+### 🔭 I’m currently building:
+
+-   An **AI-Powered Chess Tournament Analysis Platform** using Python (FastAPI) for the backend and Next.js for the frontend. The ultimate goal is to train a unique AI chess coaching model.
+
+### 🌱 I’m currently learning:
+
+-   Advanced **Machine Learning** and **Neural Network** concepts to implement in my project.
+-   **Next.js** for building modern, high-performance web applications.
+-   Sharpening my algorithmic thinking skills on **LeetCode**.
+
+### 🛠️ My Tech Stack
+
+-   **Backend:** Python, FastAPI, SQLAlchemy, Alembic
+-   **Frontend:** Next.js, React, **Angular**
+-   **Database:** PostgreSQL
+-   **AI/ML:** Scikit-learn, Pandas, Prompt Engineering
+-   **Tools:** Git, Docker
+
+### 💼 My Portfolio & Experience
+
+-   🏆 **[Euroleague Player Performance Analysis](https://github.com/mrkckpln/euroleague-player-performance-analysis)**: A data science project to analyze player stats.
+-   📂 **Internship Projects (Angular):** Developed two full-featured applications, **NoteMaster** & **BlogPlatform**, during my internship.
+-   📜 **DataCamp Certified:** Data Scientist with Python & Associate SQL Data Analyst.
