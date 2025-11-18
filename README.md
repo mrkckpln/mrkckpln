@@ -10,15 +10,15 @@ I'm a software engineering student at Ostim Technical University, passionate abo
 ### 🌱 I’m currently learning:
 
 -   Advanced **Machine Learning** and **Neural Network** concepts to implement in my project.
+-   I'm currently enrolled Associate AI Engineer for Data Scientists track on DataCamp. I’m currently diving deeper into ML technologies.
 -   **Next.js** for building modern, high-performance web applications.
--   Sharpening my algorithmic thinking skills on **LeetCode**.
 
 ### 🛠️ My Tech Stack
 
 -   **Backend:** Python, FastAPI, SQLAlchemy, Alembic
 -   **Frontend:** Next.js, React, **Angular**
 -   **Database:** PostgreSQL
--   **AI/ML:** Scikit-learn, Pandas, Prompt Engineering
+-   **AI/ML:** Scikit-learn, PyTorch, Pandas, NumPy, Prompt Engineering
 -   **Tools:** Git, Docker
 
 ### 💼 My Portfolio & Experience
