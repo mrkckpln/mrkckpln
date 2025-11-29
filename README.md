@@ -18,7 +18,7 @@ I'm a software engineering student at Ostim Technical University, passionate abo
 -   **Backend:** Python, FastAPI, SQLAlchemy, Alembic
 -   **Frontend:** Next.js, React, **Angular**
 -   **Database:** PostgreSQL
--   **AI/ML:** Scikit-learn, PyTorch, Pandas, NumPy, Prompt Engineering
+-   **AI/ML:** Scikit-learn, PyTorch, Pandas, NumPy, Jupyter Notebooks, Prompt Engineering
 -   **Tools:** Git, Docker
 
 ### 💼 My Portfolio & Experience
