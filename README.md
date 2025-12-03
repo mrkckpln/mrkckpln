@@ -6,6 +6,11 @@
   <i>"Turning raw data and logic into intelligent, real-world applications."</i>
 </p>
 
+<p align="center">
+  🎓 <b>Senior Software Engineering Student</b> @ Ostim Technical University <br>
+  <i>Open to Internship & Part-time Opportunities</i>
+</p>
+
 <hr/>
 
 <table>
