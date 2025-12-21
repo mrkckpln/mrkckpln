@@ -65,8 +65,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
 </p>
 
-<h3>🏆 Certifications</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/DataCamp-Data%20Scientist%20with%20Python-03EFAA?style=flat-square&logo=datacamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataCamp-Associate%20SQL%20Data%20Analyst-03EFAA?style=flat-square&logo=datacamp&logoColor=white" />
-</p>
+### 🏆 Certifications
+[![AI Engineer](https://img.shields.io/badge/DataCamp-Associate%20AI%20Engineer-2ea44f?logo=datacamp)](https://github.com/mrkckpln/pytorch-ecommerce-purchase-predictor)
