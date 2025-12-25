@@ -43,7 +43,7 @@
         <li>Advanced <b>Deep Learning</b> & <b>NLP</b> architectures</li>
         <li><b>Generative AI</b> Integration (LLMs)</li>
         <li><b>Next.js</b> for high-performance web apps</li>
-        <li>Associate AI Engineer track on DataCamp</li>
+        <li>Solving LeetCode daily</li>
       </ul>
     </td>
   </tr>
