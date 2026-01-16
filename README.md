@@ -1,14 +1,14 @@
 <h3 align="center">
-  <code>Software Engineering ✕ Data Science</code>
+  <code>Software Engineering ✕ AI & Computer Vision</code>
 </h3>
 
 <p align="center">
-  <i>"Turning raw data and logic into intelligent, real-world applications."</i>
+  <i>"Building intelligent systems with a focus on algorithmic efficiency and real-world impact."</i>
 </p>
 
 <p align="center">
   🎓 <b>Senior Software Engineering Student</b> @ Ostim Technical University <br>
-  <i>Open to Internship & Part-time Opportunities</i>
+  💼 <b>Computer Vision Intern</b>
 </p>
 
 <hr/>
@@ -38,12 +38,19 @@
       </ul>
     </td>
     <td valign="top" width="45%">
-      <h3>🌱 I’m currently learning</h3>
+      <h3>🔍 Technical Focus</h3>
       <ul>
-        <li>Advanced <b>Deep Learning</b> & <b>NLP</b> architectures</li>
         <li><b>Generative AI</b> Integration (LLMs)</li>
-        <li><b>Next.js</b> for high-performance web apps</li>
-        <li>Solving LeetCode daily</li>
+        <li><b>AI & ML:</b> Deep Learning (NLP), Object Detection, Hierarchical Classification.</li>
+        <li><b>Optimization:</b> High-performance computing, Linux-based development.</li>
+        <li><b>♟️ AI Chess Coach:</b> Next.js & AI Agent development (Hobby).</li>
+      </ul>
+      <br />
+      <h3>🌱 Currently Learning</h3>
+      <ul>
+        <li><b>High-Performance Computing:</b> JuliaLang & CUDA acceleration.</li>
+        <li><b>Hardware Integration:</b> Monitoring GPU/CPU efficiency for AI models.</li>
+        <li><b>Algorithm Design:</b> Solving LeetCode daily (Current goal: LeetCode 75).</li>
       </ul>
     </td>
   </tr>
