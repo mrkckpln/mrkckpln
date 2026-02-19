@@ -19,11 +19,21 @@
       <h3>🚀 Featured Projects</h3>
       <ul>
         <li>
+            <b>🛡️ Aegis Perception — Intelligent Surveillance Engine</b>
+            <br />
+            <i>Real-time Anomaly Detection & Kinematic Analysis</i>
+            <br />
+            An end-to-end CV pipeline using <b>YOLOv8</b> and <b>ByteTrack</b> for multi-object tracking, trajectory mapping, and behavioral anomaly detection (Speed, Dwell Time, Proximity). Optimized for <b>CUDA</b>.
+            <br />
+            Stack: <i>Python, YOLOv8, OpenCV, CUDA, CachyOS</i>
+        </li>
+        <br />
+        <li>
             <a href="https://github.com/Otu-Data-ML-Projects/LegalLens"><b>⚖️ LegalLens — AI Contract Analyzer</b></a>
             <br />
             <i>Neural Network Project (Live)</i>
             <br />
-            A Chrome Extension that detects risky clauses in contracts using a custom <b>Bi-LSTM</b> model and summarizes them with <b>Google Gemini</b>.
+            A Chrome Extension detecting risky clauses in legal documents using a custom <b>Bi-LSTM</b> model and <b>Google Gemini</b> for summarization.
             <br />
             Stack: <i>Python, FastAPI, PyTorch, Chrome Extension</i>
         </li>
@@ -40,17 +50,17 @@
     <td valign="top" width="45%">
       <h3>🔍 Technical Focus</h3>
       <ul>
-        <li><b>Generative AI</b> Integration (LLMs)</li>
-        <li><b>AI & ML:</b> Deep Learning (NLP), Object Detection, Hierarchical Classification.</li>
-        <li><b>Optimization:</b> High-performance computing, Linux-based development.</li>
+        <li><b>Computer Vision:</b> Real-time Object Detection (YOLO), Multi-Object Tracking (MOT), and Behavior Analysis.</li>
+        <li><b>AI & ML:</b> MLOps, Software 2.0, NLP (Transformer-based models).</li>
+        <li><b>Optimization:</b> GPU acceleration (CUDA), Linux Kernel tuning (CachyOS), and Algorithmic Efficiency.</li>
         <li><b>♟️ AI Chess Coach:</b> Next.js & AI Agent development (Hobby).</li>
       </ul>
       <br />
-      <h3>🌱 Currently Learning</h3>
+      <h3>📈 Ongoing Development & Discipline</h3>
       <ul>
-        <li><b>High-Performance Computing:</b> JuliaLang & CUDA acceleration.</li>
-        <li><b>Hardware Integration:</b> Monitoring GPU/CPU efficiency for AI models.</li>
-        <li><b>Algorithm Design:</b> Solving LeetCode daily (Current goal: LeetCode 75).</li>
+        <li><b>Daily Problem Solving:</b> Mastering algorithmic complexity through daily <b>LeetCode</b> challenges (Current: Top Interview 75 study plan).</li>
+        <li><b>High-Performance Computing:</b> Refining <b>CUDA</b> kernels and GPU memory management for low-latency AI inference.</li>
+        <li><b>System-Level Optimization:</b> Monitoring CPU/GPU efficiency and exploring Linux Kernel tuning for real-time computer vision workloads.</li>
       </ul>
     </td>
   </tr>
@@ -58,17 +68,18 @@
 
 <h3>🛠 My Tech Stack</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /></a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00A65A?style=flat&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
   <br>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /></a> 
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/CachyOS-Arch_Based-00CCFF?style=flat&logo=arch-linux&logoColor=white" />
 </p>
 
 ### 🏆 Certifications
