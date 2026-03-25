@@ -29,6 +29,16 @@
         </li>
         <br />
         <li>
+            <a href="https://github.com/OTU-Capstone-Project"><b>🏢 AI-Driven Corporate Fleet & B2C Marketplace SaaS</b></a>
+            <br />
+            <i>Graduation Project — Multi-Tenant B2B Mobility Platform</i>
+            <br />
+            An end-to-end transportation management system bridging B2B corporate fleets and B2C users. Features an <b>NLP Smart Dispatcher</b> using <b>Google Gemini</b> to automate bookings directly from raw text/messages, a <b>Trust Score</b> engine powered by sentiment analysis, and a real-time operations core via <b>WebSocket</b>. Engineered with a strictly isolated multi-tenant architecture.
+            <br />
+            Stack: <i>Python, FastAPI, PostgreSQL, Google Gemini (LLM), WebSocket, Vue.js, OR-Tools</i>
+        </li>
+        <br />
+        <li>
             <a href="https://github.com/Otu-Data-ML-Projects/LegalLens"><b>⚖️ LegalLens — AI Contract Analyzer</b></a>
             <br />
             <i>Neural Network Project (Live)</i>
@@ -50,17 +60,18 @@
     <td valign="top" width="45%">
       <h3>🔍 Technical Focus</h3>
       <ul>
-        <li><b>Computer Vision:</b> Real-time Object Detection (YOLO), Multi-Object Tracking (MOT), and Behavior Analysis.</li>
-        <li><b>AI & ML:</b> MLOps, Software 2.0, NLP (Transformer-based models).</li>
-        <li><b>Optimization:</b> GPU acceleration (CUDA), Linux Kernel tuning (CachyOS), and Algorithmic Efficiency.</li>
-        <li><b>♟️ AI Chess Coach:</b> AI Agent development (Hobby).</li>
+        <li><b>Computer Vision:</b> Real-time Object Detection (YOLOv8), Multi-Object Tracking (MOT), Pose Estimation, and Temporal Behavioral Analysis (LSTM).</li>
+        <li><b>Backend & Architecture:</b> Multi-Tenant SaaS systems, Async FastAPI, PostgreSQL (asyncpg, SQLAlchemy, Alembic), WebSockets, API Security (slowapi, JWT), and SOLID principles.</li>
+        <li><b>AI & LLM Integration:</b> NLP Smart Dispatcher via Google Gemini, Sentiment Analysis for Trust Scoring, and Custom NLP (Bi-LSTM) pipelines.</li>
+        <li><b>System Optimization:</b> GPU acceleration (CUDA), memory leak prevention, and Linux Kernel tuning (CachyOS) for zero-latency AI pipelines.</li>
       </ul>
       <br />
       <h3>📈 Ongoing Development & Discipline</h3>
       <ul>
-        <li><b>Daily Problem Solving:</b> Mastering algorithmic complexity through daily <b>LeetCode</b> challenges (Current: Top Interview 75 study plan).</li>
-        <li><b>High-Performance Computing:</b> Refining <b>CUDA</b> kernels and GPU memory management for low-latency AI inference.</li>
-        <li><b>System-Level Optimization:</b> Monitoring CPU/GPU efficiency and exploring Linux Kernel tuning for real-time computer vision workloads.</li>
+        <li><b>Agentic Engineering:</b> Architecting strict system guidelines (Rule Engines, Pydantic validation) to orchestrate AI-assisted development (Claude/Copilot).</li>
+        <li><b>Algorithmic Mastery:</b> Sharpening computational thinking and data structures through daily <b>LeetCode</b> challenges (Top Interview 75).</li>
+        <li><b>High-Performance Computing:</b> Refining real-time video processing pipelines and optimizing edge-device inference capabilities.</li>
+        <li><b>Continuous Learning:</b> Expanding ML/Data Engineering foundations.</li>
       </ul>
     </td>
   </tr>
