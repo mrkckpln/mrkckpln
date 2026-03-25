@@ -53,7 +53,7 @@
         <li><b>Computer Vision:</b> Real-time Object Detection (YOLO), Multi-Object Tracking (MOT), and Behavior Analysis.</li>
         <li><b>AI & ML:</b> MLOps, Software 2.0, NLP (Transformer-based models).</li>
         <li><b>Optimization:</b> GPU acceleration (CUDA), Linux Kernel tuning (CachyOS), and Algorithmic Efficiency.</li>
-        <li><b>♟️ AI Chess Coach:</b> Next.js & AI Agent development (Hobby).</li>
+        <li><b>♟️ AI Chess Coach:</b> AI Agent development (Hobby).</li>
       </ul>
       <br />
       <h3>📈 Ongoing Development & Discipline</h3>
