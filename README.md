@@ -19,11 +19,11 @@
       <h3>🚀 Featured Projects</h3>
       <ul>
         <li>
-            <b>🛡️ Aegis Perception — Intelligent Multi-Model Surveillance Engine</b>
+            <b>🛡️ DİDEGAH — Intelligent Multi-Model Surveillance Engine</b>
             <br />
             <i>Real-time Skeletal Analysis & Behavioral Anomaly Detection</i>
             <br />
-            An advanced multi-model CV pipeline powered by <b>Aegis_V1.2_Alpha</b> (internally trained and optimized to <b>87.2% mAP</b>). Integrates <b>YOLOv8-Pose</b> for skeletal intelligence and features a <b>model-agnostic architecture</b> with a <b>Redis-backed temporal memory engine</b>.
+            An advanced multi-model CV pipeline powered by <b>Didegah_V1.2_Alpha</b> (internally trained and optimized to <b>87.2% mAP</b>). Integrates <b>YOLOv8-Pose</b> for skeletal intelligence and features a <b>model-agnostic architecture</b> with a <b>Redis-backed temporal memory engine</b>.
             <br />
             Stack: <i>Python, YOLOv8, PyTorch, Redis, CUDA, CachyOS</i>
         </li>
