@@ -19,13 +19,13 @@
       <h3>🚀 Featured Projects</h3>
       <ul>
         <li>
-            <b>🛡️ DİDEGAH — Intelligent Multi-Model Surveillance Engine</b>
+            <b>🛡️ DİDEGAH — Real-time Multi-Model Surveillance Engine</b>
             <br />
-            <i>Real-time Skeletal Analysis & Behavioral Anomaly Detection</i>
+            <i>Trinity Architecture · Fall Detection · Behavioral Anomaly Scoring · Live WebRTC Dashboard</i>
             <br />
-            An advanced multi-model CV pipeline powered by <b>Didegah_V1.2_Alpha</b> (internally trained and optimized to <b>87.2% mAP</b>). Integrates <b>YOLOv8-Pose</b> for skeletal intelligence and features a <b>model-agnostic architecture</b> with a <b>Redis-backed temporal memory engine</b>.
+            End-to-end CV pipeline: <b>YOLOv8s</b> (detection) · <b>YOLOv8-Pose</b> (skeletal analysis) · <b>CNN+BiLSTM</b> (behavioral inference). BEV site mapping, zone intrusion detection and a FastAPI + Next.js command centre with WebSocket telemetry.
             <br />
-            Stack: <i>Python, YOLOv8, PyTorch, Redis, CUDA, CachyOS</i>
+            Stack: <i>Python, PyTorch, FastAPI, Next.js, Redis, CUDA</i>
         </li>
         <br />
         <li>
