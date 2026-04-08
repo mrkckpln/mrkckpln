@@ -41,7 +41,7 @@
         <li>
             <a href="https://github.com/Otu-Data-ML-Projects/LegalLens"><b>⚖️ LegalLens — AI Contract Analyzer</b></a>
             <br />
-            <i>Neural Network Project (Live)</i>
+            <i>Neural Network Project</i>
             <br />
             A Chrome Extension detecting risky clauses in legal documents using a custom <b>Bi-LSTM</b> model and <b>Google Gemini</b> for summarization.
             <br />
