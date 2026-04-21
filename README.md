@@ -1,5 +1,5 @@
 <h3 align="center">
-  <code>Software Engineering ✕ AI & Computer Vision</code>
+  <code>Software Engineering ✕ AI Engineering</code>
 </h3>
 
 <p align="center">
@@ -31,11 +31,11 @@
         <li>
             <a href="https://github.com/OTU-Capstone-Project"><b>🏢 AI-Driven Corporate Fleet & B2C Marketplace SaaS</b></a>
             <br />
-            <i>Graduation Project — Multi-Tenant B2B Mobility Platform</i>
+            <i>Graduation Project — Enterprise B2B/B2C Mobility Platform</i>
             <br />
-            An end-to-end transportation management system bridging B2B corporate fleets and B2C users. Features an <b>NLP Smart Dispatcher</b> using <b>Google Gemini</b> to automate bookings directly from raw text/messages, a <b>Trust Score</b> engine powered by sentiment analysis, and a real-time operations core via <b>WebSocket</b>. Engineered with a strictly isolated multi-tenant architecture.
+            An enterprise-grade transportation management system bridging B2B corporate fleets and a B2C public marketplace. Engineered with strict multi-tenant isolation, it features an <b>NLP Smart Dispatcher</b> and <b>AI Dynamic Surge Pricing</b> via Google Gemini, real-time <b>OSRM multi-stop routing</b>, and a sustainable <b>Carpooling</b> matching engine. Core operations are backed by WebSocket telemetry, S3/MinIO polymorphic document storage, and live Expected vs. Realized P&L financial tracking.
             <br />
-            Stack: <i>Python, FastAPI, PostgreSQL, Google Gemini (LLM), WebSocket, Vue.js, OR-Tools</i>
+            Stack: <i>Python, FastAPI, PostgreSQL, Google Gemini, Vue 3, Tailwind CSS, OSRM, S3/MinIO, WebSockets, Docker</i>
         </li>
         <br />
         <li>
@@ -57,21 +57,20 @@
         </li>
       </ul>
     </td>
-    <td valign="top" width="45%">
+<td valign="top" width="45%">
       <h3>🔍 Technical Focus</h3>
       <ul>
-        <li><b>Computer Vision:</b> Real-time Object Detection (YOLOv8), Multi-Object Tracking (MOT), Pose Estimation, and Temporal Behavioral Analysis (LSTM).</li>
-        <li><b>Backend & Architecture:</b> Multi-Tenant SaaS systems, Async FastAPI, PostgreSQL (asyncpg, SQLAlchemy, Alembic), WebSockets, API Security (slowapi, JWT), and SOLID principles.</li>
-        <li><b>AI & LLM Integration:</b> NLP Smart Dispatcher via Google Gemini, Sentiment Analysis for Trust Scoring, and Custom NLP (Bi-LSTM) pipelines.</li>
-        <li><b>System Optimization:</b> GPU acceleration (CUDA), memory leak prevention, and Linux Kernel tuning (CachyOS) for zero-latency AI pipelines.</li>
+        <li><b>Backend & Architecture:</b> Multi-Tenant B2B/B2C SaaS platforms, Async FastAPI, PostgreSQL, WebSockets, and S3/MinIO cloud storage integration.</li>
+        <li><b>Smart Mobility Algorithms:</b> OSRM multi-stop routing, dynamic AI surge pricing, and Haversine-based carpooling matching engines.</li>
+        <li><b>Computer Vision & AI:</b> Real-time Object Detection (YOLOv8), Temporal Behavioral Analysis (LSTM), and NLP Smart Dispatchers via Google Gemini.</li>
+        <li><b>System Optimization:</b> GPU acceleration (CUDA) and high-concurrency event loops for zero-latency pipelines.</li>
       </ul>
       <br />
       <h3>📈 Ongoing Development & Discipline</h3>
       <ul>
-        <li><b>Agentic Engineering:</b> Architecting strict system guidelines (Rule Engines, Pydantic validation) to orchestrate AI-assisted development (Claude/Copilot).</li>
-        <li><b>Algorithmic Mastery:</b> Sharpening computational thinking and data structures through daily <b>LeetCode</b> challenges (Top Interview 75).</li>
+        <li><b>Agentic Engineering:</b> Architecting strict system guidelines and utilizing advanced prompting to orchestrate AI-assisted development across massive codebases.</li>
+        <li><b>Strategic Problem Solving:</b> Applying professional-level chess foresight (2000 FIDE) to software architecture, anticipating edge cases, and optimizing complex business logic.</li>
         <li><b>High-Performance Computing:</b> Refining real-time video processing pipelines and optimizing edge-device inference capabilities.</li>
-        <li><b>Continuous Learning:</b> Expanding ML/Data Engineering foundations.</li>
       </ul>
     </td>
   </tr>
@@ -87,9 +86,15 @@
   <br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/CachyOS-Arch_Based-00CCFF?style=flat&logo=arch-linux&logoColor=white" />
 </p>
 
