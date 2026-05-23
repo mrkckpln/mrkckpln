@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>Senior Software Engineering Student</b> @ Ostim Technical University <br>
-  💼 <b>Computer Vision Intern</b>
+  🎓 <b>Graduate Software Engineer (June 2026)</b> @ Ostim Technical University <br>
 </p>
 
 <hr/>
@@ -19,21 +18,21 @@
       <h3>🚀 Featured Projects</h3>
       <ul>
         <li>
-            <b>🛡️ DİDEGAH — Real-time Multi-Model Surveillance Engine</b>
+            <b>🛡️ DİDEGAH — Autonomous Perception & Surveillance Engine</b>
             <br />
             <i>Trinity Architecture · Fall Detection · Behavioral Anomaly Scoring · Live WebRTC Dashboard</i>
             <br />
-            End-to-end CV pipeline: <b>YOLOv8s</b> (detection) · <b>YOLOv8-Pose</b> (skeletal analysis) · <b>CNN+BiLSTM</b> (behavioral inference). BEV site mapping, zone intrusion detection and a FastAPI + Next.js command centre with WebSocket telemetry.
+            End-to-end CV pipeline: <b>YOLOv11-OBB</b> (detection) · <b>YOLO-Pose</b> (skeletal analysis) · <b>PatchCore & OBB-LSTM</b> (trajectory & surface anomaly inference). Fully optimized with TensorRT for high-performance edge deployment.
             <br />
-            Stack: <i>Python, PyTorch, FastAPI, Next.js, Redis, CUDA</i>
+            Stack: <i>Python, PyTorch, TensorRT, FastAPI, Next.js, Redis, CUDA</i>
         </li>
         <br />
         <li>
-            <a href="https://github.com/OTU-Capstone-Project"><b>🏢 AI-Driven Corporate Fleet & B2C Marketplace SaaS</b></a>
+            <a href="https://github.com/OTU-Capstone-Project"><b>🏢 Rotakur — Corporate Mobility & ESG-Driven SaaS Platform</b></a>
             <br />
             <i>Graduation Project — Enterprise B2B/B2C Mobility Platform</i>
             <br />
-            An enterprise-grade transportation management system bridging B2B corporate fleets and a B2C public marketplace. Engineered with strict multi-tenant isolation, it features an <b>NLP Smart Dispatcher</b> and <b>AI Dynamic Surge Pricing</b> via Google Gemini, real-time <b>OSRM multi-stop routing</b>, and a sustainable <b>Carpooling</b> matching engine. Core operations are backed by WebSocket telemetry, S3/MinIO polymorphic document storage, and live Expected vs. Realized P&L financial tracking.
+            An enterprise-grade transportation management system bridging B2B corporate fleets and a B2C public marketplace. Engineered with strict multi-tenant isolation, it features an <b>NLP Smart Dispatcher via Gemini 2.5 Flash</b>, real-time OSRM multi-stop routing, and an ESG-compliant <b>Carpooling</b> matching engine for CO2 emissions tracking.
             <br />
             Stack: <i>Python, FastAPI, PostgreSQL, Google Gemini, Vue 3, Tailwind CSS, OSRM, S3/MinIO, WebSockets, Docker</i>
         </li>
@@ -43,7 +42,7 @@
             <br />
             <i>Neural Network Project</i>
             <br />
-            A Chrome Extension detecting risky clauses in legal documents using a custom <b>Bi-LSTM</b> model and <b>Google Gemini</b> for summarization.
+            A Chrome Extension detecting risky clauses in legal documents using a custom <b>Bi-LSTM + Attention</b> model and <b>Google Gemini</b> for summarization.
             <br />
             Stack: <i>Python, FastAPI, PyTorch, Chrome Extension</i>
         </li>
@@ -53,23 +52,23 @@
             <br />
             <i>Backend with FastAPI, Frontend with Next.js.</i>
             <br />
-            Goal: Developing a specialized AI agent that analyzes matches and provides feedback like a human coach.
+            Goal: Developing a specialized AI agent that analyzes matches and provides human-like coaching feedback.
         </li>
       </ul>
     </td>
-<td valign="top" width="45%">
+    <td valign="top" width="45%">
       <h3>🔍 Technical Focus</h3>
       <ul>
         <li><b>Backend & Architecture:</b> Multi-Tenant B2B/B2C SaaS platforms, Async FastAPI, PostgreSQL, WebSockets, and S3/MinIO cloud storage integration.</li>
         <li><b>Smart Mobility Algorithms:</b> OSRM multi-stop routing, dynamic AI surge pricing, and Haversine-based carpooling matching engines.</li>
-        <li><b>Computer Vision & AI:</b> Real-time Object Detection (YOLOv8), Temporal Behavioral Analysis (LSTM), and NLP Smart Dispatchers via Google Gemini.</li>
-        <li><b>System Optimization:</b> GPU acceleration (CUDA) and high-concurrency event loops for zero-latency pipelines.</li>
+        <li><b>Computer Vision & AI:</b> Real-time Object Detection (YOLOv11-OBB), TensorRT Optimization, Temporal Behavioral Analysis (LSTM), and NLP Smart Dispatchers via Google Gemini.</li>
+        <li><b>System Optimization:</b> GPU acceleration (CUDA), TensorRT FP16 quantization, and high-concurrency event loops for zero-latency pipelines.</li>
       </ul>
       <br />
       <h3>📈 Ongoing Development & Discipline</h3>
       <ul>
         <li><b>Agentic Engineering:</b> Architecting strict system guidelines and utilizing advanced prompting to orchestrate AI-assisted development across massive codebases.</li>
-        <li><b>Strategic Problem Solving:</b> Applying professional-level chess foresight (2000 FIDE) to software architecture, anticipating edge cases, and optimizing complex business logic.</li>
+        <li><b>Strategic Problem Solving:</b> Applying professional-level chess foresight (15 years) to software architecture, anticipating edge cases.</li>
         <li><b>High-Performance Computing:</b> Refining real-time video processing pipelines and optimizing edge-device inference capabilities.</li>
       </ul>
     </td>
@@ -81,7 +80,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00A65A?style=flat&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-00A65A?style=flat&logo=ultralytics&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -99,4 +98,4 @@
 </p>
 
 ### 🏆 Certifications
-[![AI Engineer](https://img.shields.io/badge/DataCamp-Associate%20AI%20Engineer-2ea44f?logo=datacamp)](https://github.com/mrkckpln/pytorch-ecommerce-purchase-predictor)
+[![AI Engineer](https://img.shields.io/badge/DataCamp-Associate%20AI%20Engineer-2ea44f?logo=datacamp)](https://www.datacamp.com/certificate/AEDS0017948040137)
