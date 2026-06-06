@@ -18,6 +18,21 @@
       <h3>🚀 Featured Projects</h3>
       <ul>
         <li>
+    <a href="https://github.com/OTU-Capstone-Project"><b>🏢 Rotakur: Unified Fleet Supply and Mobility Platform</b></a>
+    <br />
+    <i>Graduation Project — Enterprise B2B SaaS + B2C Marketplace</i>
+    <br />
+    Rotakur is a production-minded hybrid platform that brings corporate fleet operations, organization-led event logistics, and public mobility booking into one multi-tenant system.
+    <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
+        <li><b>Unified Operations Core:</b> Designed a single architecture where B2B operations, organization workflows, and B2C marketplace orders run on shared business rules with atomic B2C to B2B transaction bridging.</li>
+        <li><b>Smart Routing and Real-time Mobility:</b> Built OSRM-based route intelligence, waypoint-aware booking, geofence validation, and live WebSocket operational streams for tracking, dispatch, and event-room visibility.</li>
+        <li><b>Finance, ESG, and Compliance Engine:</b> Implemented expected vs realized profitability flows, telemetry-driven distance and CO2 metrics, UBL-TR 2.1 e-invoice generation, and resilient dispatch with retries and DLQ-safe fallbacks.</li>
+        <li><b>Security and Tenant Governance:</b> Enforced strict tenant isolation, role-scoped authorization, anti-BOLA access controls, and separated auth domains for enterprise users, organization users, and marketplace clients.</li>
+    </ul>
+    <b>Stack:</b> <i>Python, FastAPI, SQLAlchemy 2.0, Alembic, Pydantic v2, PostgreSQL, TypeScript, Vue 3, Pinia, WebSockets, Redis, OSRM, Leaflet, MinIO/S3, Google Gemini API, Docker</i>
+</li>
+        <br />
+        <li>
             <b>🛡️ DİDEGAH — Autonomous Perception & Surveillance Engine</b>
             <br />
             <i>Trinity Architecture · Fall Detection · Behavioral Anomaly Scoring · Live WebRTC Dashboard</i>
@@ -25,16 +40,6 @@
             End-to-end CV pipeline: <b>YOLOv11-OBB</b> (detection) · <b>YOLO-Pose</b> (skeletal analysis) · <b>PatchCore & OBB-LSTM</b> (trajectory & surface anomaly inference). Fully optimized with TensorRT for high-performance edge deployment.
             <br />
             Stack: <i>Python, PyTorch, TensorRT, FastAPI, Next.js, Redis, CUDA</i>
-        </li>
-        <br />
-        <li>
-            <a href="https://github.com/OTU-Capstone-Project"><b>🏢 Rotakur — Corporate Mobility & ESG-Driven SaaS Platform</b></a>
-            <br />
-            <i>Graduation Project — Enterprise B2B/B2C Mobility Platform</i>
-            <br />
-            An enterprise-grade transportation management system bridging B2B corporate fleets and a B2C public marketplace. Engineered with strict multi-tenant isolation, it features an <b>NLP Smart Dispatcher via Gemini 2.5 Flash</b>, real-time OSRM multi-stop routing, and an ESG-compliant <b>Carpooling</b> matching engine for CO2 emissions tracking.
-            <br />
-            Stack: <i>Python, FastAPI, PostgreSQL, Google Gemini, Vue 3, Tailwind CSS, OSRM, S3/MinIO, WebSockets, Docker</i>
         </li>
         <br />
         <li>
