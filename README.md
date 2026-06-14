@@ -64,17 +64,17 @@
     <td valign="top" width="45%">
       <h3>🔍 Technical Focus</h3>
       <ul>
-        <li><b>Backend & Architecture:</b> Multi-Tenant B2B/B2C SaaS platforms, Async FastAPI, PostgreSQL, WebSockets, and S3/MinIO cloud storage integration.</li>
-        <li><b>Smart Mobility Algorithms:</b> OSRM multi-stop routing, dynamic AI surge pricing, and Haversine-based carpooling matching engines.</li>
-        <li><b>Computer Vision & AI:</b> Real-time Object Detection (YOLOv11-OBB), TensorRT Optimization, Temporal Behavioral Analysis (LSTM), and NLP Smart Dispatchers via Google Gemini.</li>
-        <li><b>System Optimization:</b> GPU acceleration (CUDA), TensorRT FP16 quantization, and high-concurrency event loops for zero-latency pipelines.</li>
+        <li><b>Distributed Systems & Multi-Tenant SaaS:</b> Engineering asynchronous, high-concurrency backend infrastructures with FastAPI, SQLAlchemy 2.0, and robust tenant-isolated PostgreSQL databases.</li>
+        <li><b>Production-Grade AI & Edge CV:</b> Constructing end-to-end computer vision pipelines (YOLO-OBB/Pose) and custom sequential models structured for real-time inference in critical environments.</li>
+        <li><b>Inference Optimization & HPC:</b> Optimizing deep learning models via TensorRT FP16 quantization, minimizing latency, and maximizing hardware throughput utilizing CUDA acceleration.</li>
+        <li><b>Spatial Computing & Telemetry:</b> Designing custom multi-stop routing logic, geographic validation systems (OSRM), and live operational telemetry pipelines using persistent WebSocket streams.</li>
       </ul>
       <br />
       <h3>📈 Ongoing Development & Discipline</h3>
       <ul>
-        <li><b>Agentic Engineering:</b> Architecting strict system guidelines and utilizing advanced prompting to orchestrate AI-assisted development across massive codebases.</li>
-        <li><b>Strategic Problem Solving:</b> Applying professional-level chess foresight (15 years) to software architecture, anticipating edge cases.</li>
-        <li><b>High-Performance Computing:</b> Refining real-time video processing pipelines and optimizing edge-device inference capabilities.</li>
+        <li><b>Agentic Engineering:</b> Architecting strict system guidelines and advanced prompt workflows to orchestrate AI-assisted development across large-scale production codebases.</li>
+        <li><b>Strategic System Foresight:</b> Translating professional-level chess foresight (15+ years, 2000 FIDE) into software engineering — anticipating architectural edge cases, race conditions, and system bottlenecks before they occur.</li>
+        <li><b>High-Performance Architectures:</b> Deepening expertise in hardware-level performance tuning, Linux-native optimizations, and high-throughput data processing layers.</li>
       </ul>
     </td>
   </tr>
