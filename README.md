@@ -1,24 +1,15 @@
-<h3 align="center">
-  <code>Software Engineering ✕ AI Engineering</code>
-</h3>
+# Software Engineer & Focused on AI Automation
 
-<p align="center">
-  <i>"Building intelligent systems with a focus on algorithmic efficiency and real-world impact."</i>
-</p>
-
-<p align="center">
-  🎓 <b>Graduate Software Engineer (June 2026)</b> @ Ostim Technical University <br>
-</p>
-
+> Architecting secure, high-performance, and data-driven intelligent systems across Software 2.0 and MLOps.
 <hr/>
 
 <table>
   <tr>
     <td valign="top" width="55%">
-      <h3>🚀 Featured Projects</h3>
+      <h3>Featured Projects</h3>
       <ul>
         <li>
-    <a href="https://github.com/OTU-Capstone-Project"><b>🏢 Rotakur: Unified Fleet Supply and Mobility Platform</b></a>
+    <a href="https://github.com/OTU-Capstone-Project"><b>🛠️ Rotakur: Unified Fleet Supply and Mobility Platform</b></a>
     <br />
     <i>Graduation Project — Enterprise B2B SaaS + B2C Marketplace</i>
     <br />
@@ -33,7 +24,7 @@
 </li>
         <br />
         <li>
-            <b>🛡️ DİDEGAH — Autonomous Perception & Surveillance Engine</b>
+            <b>👁️ DİDEGAH — Autonomous Perception & Surveillance Engine</b>
             <br />
             <i>Trinity Architecture · Fall Detection · Behavioral Anomaly Scoring · Live WebRTC Dashboard</i>
             <br />
@@ -62,7 +53,7 @@
       </ul>
     </td>
     <td valign="top" width="45%">
-      <h3>🔍 Technical Focus</h3>
+      <h3>Technical Focus</h3>
       <ul>
         <li><b>Distributed Systems & Multi-Tenant SaaS:</b> Engineering asynchronous, high-concurrency backend infrastructures with FastAPI, SQLAlchemy 2.0, and robust tenant-isolated PostgreSQL databases.</li>
         <li><b>Production-Grade AI & Edge CV:</b> Constructing end-to-end computer vision pipelines (YOLO-OBB/Pose) and custom sequential models structured for real-time inference in critical environments.</li>
@@ -70,7 +61,7 @@
         <li><b>Spatial Computing & Telemetry:</b> Designing custom multi-stop routing logic, geographic validation systems (OSRM), and live operational telemetry pipelines using persistent WebSocket streams.</li>
       </ul>
       <br />
-      <h3>📈 Ongoing Development & Discipline</h3>
+      <h3>Ongoing Development & Discipline</h3>
       <ul>
         <li><b>Agentic Engineering:</b> Architecting strict system guidelines and advanced prompt workflows to orchestrate AI-assisted development across large-scale production codebases.</li>
         <li><b>Strategic System Foresight:</b> Translating professional-level chess foresight (15+ years, 2000 FIDE) into software engineering — anticipating architectural edge cases, race conditions, and system bottlenecks before they occur.</li>
