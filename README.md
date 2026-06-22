@@ -93,5 +93,6 @@
   <img src="https://img.shields.io/badge/CachyOS-Arch_Based-00CCFF?style=flat&logo=arch-linux&logoColor=white" />
 </p>
 
-### 🏆 Certifications
+### 🏆 Certifications & Achievements
 [![AI Engineer](https://img.shields.io/badge/DataCamp-Associate%20AI%20Engineer-2ea44f?logo=datacamp)](https://www.datacamp.com/certificate/AEDS0017948040137)
+[![FIDE Profile](https://img.shields.io/badge/FIDE-2000%20Rating%20Profile-00529B?logo=chess&logoColor=white)](https://ratings.fide.com/profile/34583661))
