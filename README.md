@@ -34,6 +34,20 @@
         </li>
         <br />
         <li>
+            <b>♟️ AI-Powered Chess Analytics & Tournament Intelligence Platform</b>
+            <br />
+            <i>Production-Grade Workstation — Asynchronous Multi-Tenant Micro-SaaS</i>
+            <br />
+            An enterprise-grade intelligent workstation built to bridge the gap between brute-force engine calculations and abstract human positional understanding, translating raw telemetry into professional coaching feedback.
+            <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
+                <li><b>Asynchronous Analysis Core:</b> Engineered a highly resilient, decoupled worker pipeline utilizing Redis Queue (RQ) to orchestrate per-ply Stockfish engine analysis (Depth 15+) and LLM reasoning layers.</li>
+                <li><b>Single-Screen Tournament Layout:</b> Built a custom, zero-dependency responsive chess board featuring Lichess slate aesthetics, embedded vector-based Cburnett SVG pieces, live eval bars, and active-move auto-scrolling.</li>
+                <li><b>Grandmaster Intelligence & Reports:</b> Leveraged domain-specific knowledge retrieval and custom heuristic mapping to generate Grandmaster-level (2500+ ELO) positional feedback alongside publication-quality PDF booklets.</li>
+            </ul>
+            <b>Stack:</b> <i>Python, FastAPI, Next.js 15, Redis Queue (RQ), PostgreSQL, Alembic, Stockfish, OpenAI API (GPT-4o), fpdf2, Recharts, Tailwind CSS, Docker</i>
+        </li>
+        <br />
+        <li>
             <a href="https://github.com/Otu-Data-ML-Projects/LegalLens"><b>⚖️ LegalLens — AI Contract Analyzer</b></a>
             <br />
             <i>Neural Network Project</i>
@@ -41,14 +55,6 @@
             A Chrome Extension detecting risky clauses in legal documents using a custom <b>Bi-LSTM + Attention</b> model and <b>Google Gemini</b> for summarization.
             <br />
             Stack: <i>Python, FastAPI, PyTorch, Chrome Extension</i>
-        </li>
-        <br />
-        <li>
-            <b>♟️ AI-Powered Chess Analysis Platform</b>
-            <br />
-            <i>Backend with FastAPI, Frontend with Next.js.</i>
-            <br />
-            Goal: Developing a specialized AI agent that analyzes matches and provides human-like coaching feedback.
         </li>
       </ul>
     </td>
