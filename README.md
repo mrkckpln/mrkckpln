@@ -5,73 +5,74 @@
 
 <table>
   <tr>
-    <td valign="top" width="55%">
-      <h3>Featured Projects</h3>
+    <td valign="top" width="54%">
+      <h3>🚀 Featured Projects</h3>
       <ul>
         <li>
-    <a href="https://github.com/OTU-Capstone-Project"><b>🛠️ Rotakur: Unified Fleet Supply and Mobility Platform</b></a>
-    <br />
-    <i>Graduation Project — Enterprise B2B SaaS + B2C Marketplace</i>
-    <br />
-    Rotakur is a production-minded hybrid platform that brings corporate fleet operations, organization-led event logistics, and public mobility booking into one multi-tenant system.
-    <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
-        <li><b>Unified Operations Core:</b> Designed a single architecture where B2B operations, organization workflows, and B2C marketplace orders run on shared business rules with atomic B2C to B2B transaction bridging.</li>
-        <li><b>Smart Routing and Real-time Mobility:</b> Built OSRM-based route intelligence, waypoint-aware booking, geofence validation, and live WebSocket operational streams for tracking, dispatch, and event-room visibility.</li>
-        <li><b>Finance, ESG, and Compliance Engine:</b> Implemented expected vs realized profitability flows, telemetry-driven distance and CO2 metrics, UBL-TR 2.1 e-invoice generation, and resilient dispatch with retries and DLQ-safe fallbacks.</li>
-        <li><b>Security and Tenant Governance:</b> Enforced strict tenant isolation, role-scoped authorization, anti-BOLA access controls, and separated auth domains for enterprise users, organization users, and marketplace clients.</li>
-    </ul>
-    <b>Stack:</b> <i>Python, FastAPI, SQLAlchemy 2.0, Alembic, Pydantic v2, PostgreSQL, TypeScript, Vue 3, Pinia, WebSockets, Redis, OSRM, Leaflet, MinIO/S3, Google Gemini API, Docker</i>
-</li>
-        <br />
-        <li>
-            <b>👁️ DİDEGAH — Autonomous Perception & Surveillance Engine</b>
-            <br />
-            <i>Trinity Architecture · Fall Detection · Behavioral Anomaly Scoring · Live WebRTC Dashboard</i>
-            <br />
-            End-to-end CV pipeline: <b>YOLOv11-OBB</b> (detection) · <b>YOLO-Pose</b> (skeletal analysis) · <b>PatchCore & OBB-LSTM</b> (trajectory & surface anomaly inference). Fully optimized with TensorRT for high-performance edge deployment.
-            <br />
-            Stack: <i>Python, PyTorch, TensorRT, FastAPI, Next.js, Redis, CUDA</i>
+          <a href="https://github.com/OTU-Capstone-Project"><b>🛠️ Rotakur: Unified Mobility & Fleet SaaS</b></a>
+          <br />
+          <i>Graduation Project — Enterprise B2B SaaS + B2C Marketplace</i>
+          <br />
+          A resilient, multi-tenant hybrid system orchestrating corporate fleet operations, organization event logistics, and public mobility bookings.
+          <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
+            <li><b>AI Dispatch & Spatial Routing:</b> Deployed an NLP Smart Dispatcher (Gemini 2.5 Flash + pgvector) to extract structured reservation profiles from raw chat text. Coupled with OSRM multi-stop road-network polyline decoding, dynamic geofencing, and strict POI constraints (airports/terminals) to eliminate phantom bookings.</li>
+            <li><b>Dual-Tenant Governance & P&L Engine:</b> Governs multi-entity corporate procurement via a locked state machine (DRAFT -> APPROVED) with strict data isolation. Integrated an AI Surge Pricing engine calculating real-time binding fares and exact Net P&L margins (fuel + depreciation) prior to trip onset.</li>
+            <li><b>Sustainability & Regulatory Compliance:</b> Built a smart carpooling matching engine pairing B2C orders (within ±2h window / 20km radius) to track DEFRA-compliant CO2 savings for ESG reporting. Automates U-ETDS reporting for the Turkish Ministry of Transport and executes UBL-TR 2.1 e-invoicing via DLQ-safe fallbacks.</li>
+          </ul>
+          <b>Stack:</b> <i>Python, FastAPI, SQLAlchemy 2.0, PostgreSQL, pgvector, WebSockets, Redis, OSRM, Docker</i>
         </li>
         <br />
         <li>
-            <b>♟️ AI-Powered Chess Analytics & Tournament Intelligence Platform</b>
-            <br />
-            <i>Production-Grade Workstation — Asynchronous Multi-Tenant Micro-SaaS</i>
-            <br />
-            An enterprise-grade intelligent workstation built to bridge the gap between brute-force engine calculations and abstract human positional understanding, translating raw telemetry into professional coaching feedback.
-            <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
-                <li><b>Asynchronous Analysis Core:</b> Engineered a highly resilient, decoupled worker pipeline utilizing Redis Queue (RQ) to orchestrate per-ply Stockfish engine analysis (Depth 15+) and LLM reasoning layers.</li>
-                <li><b>Single-Screen Tournament Layout:</b> Built a custom, zero-dependency responsive chess board featuring Lichess slate aesthetics, embedded vector-based Cburnett SVG pieces, live eval bars, and active-move auto-scrolling.</li>
-                <li><b>Grandmaster Intelligence & Reports:</b> Leveraged domain-specific knowledge retrieval and custom heuristic mapping to generate Grandmaster-level (2500+ ELO) positional feedback alongside publication-quality PDF booklets.</li>
-            </ul>
-            <b>Stack:</b> <i>Python, FastAPI, Next.js 15, Redis Queue (RQ), PostgreSQL, Alembic, Stockfish, OpenAI API (GPT-4o), fpdf2, Recharts, Tailwind CSS, Docker</i>
+          <b>👁️ Autonomous AI Sentry (AI Bekçi)</b>
+          <br />
+          <i>Edge CV · Millisecond Anomaly & Environmental Variance Detection</i>
+          <br />
+          An intelligent autonomous perception engine designed to act as an unblinking AI Sentry in critical environments.
+          <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
+            <li><b>Sentry Architecture:</b> Deployed YOLOv11-OBB and YOLO-Pose models to infer behavioral anomalies, falls, and environmental variations within milliseconds.</li>
+            <li><b>HPC Optimization:</b> Fully accelerated via TensorRT FP16 quantization and CUDA execution layers to minimize edge latency and maximize hardware throughput.</li>
+          </ul>
+          <b>Stack:</b> <i>C++, Python, PyTorch, TensorRT, CUDA, FastAPI, Next.js</i>
         </li>
         <br />
         <li>
-            <a href="https://github.com/Otu-Data-ML-Projects/LegalLens"><b>⚖️ LegalLens — AI Contract Analyzer</b></a>
-            <br />
-            <i>Neural Network Project</i>
-            <br />
-            A Chrome Extension detecting risky clauses in legal documents using a custom <b>Bi-LSTM + Attention</b> model and <b>Google Gemini</b> for summarization.
-            <br />
-            Stack: <i>Python, FastAPI, PyTorch, Chrome Extension</i>
+          <b>♟️ Intelligent Chess Workstation</b>
+          <br />
+          <i>Asynchronous Multi-Tenant Micro-SaaS</i>
+          <br />
+          AI-driven analytics platform bridging brute-force engine data with abstract human positional understanding.
+          <ul style="margin-top: 5px; margin-bottom: 5px; padding-left: 20px;">
+            <li><b>Async Core:</b> Engineered a decoupled Redis Queue (RQ) pipeline for per-ply Stockfish and LLM analysis.</li>
+            <li><b>Advanced Reports:</b> Generated grandmaster-level heuristic feedback alongside publication-quality PDFs.</li>
+          </ul>
+          <b>Stack:</b> <i>Python, FastAPI, Next.js 15, Redis, Stockfish, OpenAI/Gemini API, fpdf2</i>
+        </li>
+        <br />
+        <li>
+          <a href="https://github.com/Otu-Data-ML-Projects/LegalLens"><b>⚖️ LegalLens — AI Contract Analyzer</b></a>
+          <br />
+          <i>Neural Network Chrome Extension</i>
+          <br />
+          Detects high-risk clauses using a custom <b>Bi-LSTM + Attention</b> model and Google Gemini for deep summary.
+          <br />
+          <b>Stack:</b> <i>Python, PyTorch, FastAPI, Chrome API</i>
         </li>
       </ul>
     </td>
-    <td valign="top" width="45%">
-      <h3>Technical Focus</h3>
+    <td valign="top" width="46%">
+      <h3>🎯 Technical Focus</h3>
       <ul>
         <li><b>Distributed Systems & Multi-Tenant SaaS:</b> Engineering asynchronous, high-concurrency backend infrastructures with FastAPI, SQLAlchemy 2.0, and robust tenant-isolated PostgreSQL databases.</li>
         <li><b>Production-Grade AI & Edge CV:</b> Constructing end-to-end computer vision pipelines (YOLO-OBB/Pose) and custom sequential models structured for real-time inference in critical environments.</li>
         <li><b>Inference Optimization & HPC:</b> Optimizing deep learning models via TensorRT FP16 quantization, minimizing latency, and maximizing hardware throughput utilizing CUDA acceleration.</li>
-        <li><b>Spatial Computing & Telemetry:</b> Designing custom multi-stop routing logic, geographic validation systems (OSRM), and live operational telemetry pipelines using persistent WebSocket streams.</li>
+        <li><b>Spatial Computing & Telemetry:</b> Designing custom multi-stop routing logic, geographic validation systems (OSRM), and live operational telemetry pipelines via persistent WebSockets in Rotakur.</li>
       </ul>
       <br />
-      <h3>Ongoing Development & Discipline</h3>
+      <h3>🧠 Ongoing Development & Discipline</h3>
       <ul>
         <li><b>Agentic Engineering:</b> Architecting strict system guidelines and advanced prompt workflows to orchestrate AI-assisted development across large-scale production codebases.</li>
         <li><b>Strategic System Foresight:</b> Translating professional-level chess foresight (15+ years, 2000 FIDE) into software engineering — anticipating architectural edge cases, race conditions, and system bottlenecks before they occur.</li>
-        <li><b>High-Performance Architectures:</b> Deepening expertise in hardware-level performance tuning, Linux-native optimizations, and high-throughput data processing layers.</li>
+        <li><b>High-Performance Architectures:</b> Deepening expertise in hardware-level performance tuning, Linux-native optimizations, and high-throughput data processing layers using Modern C++.</li>
       </ul>
     </td>
   </tr>
@@ -80,18 +81,18 @@
 <h3>🛠 My Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv11-00A65A?style=flat&logo=ultralytics&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&byteColor=white" />
   <br>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
