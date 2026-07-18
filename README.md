@@ -6,10 +6,10 @@
 <table>
   <tr>
     <td valign="top" width="54%">
-      <h3>🚀 Featured Projects</h3>
+      <h3>Projects</h3>
       <ul>
         <li>
-          <a href="https://github.com/OTU-Capstone-Project"><b>🛠️ Rotakur: Unified Mobility & Fleet SaaS</b></a>
+          <a href="https://github.com/OTU-Capstone-Project"><b> Rotakur: Unified Mobility & Fleet SaaS</b></a>
           <br />
           <i>Graduation Project — Enterprise B2B SaaS + B2C Marketplace</i>
           <br />
@@ -60,7 +60,7 @@
       </ul>
     </td>
     <td valign="top" width="46%">
-      <h3>🎯 Technical Focus</h3>
+      <h3>Technical Focus</h3>
       <ul>
         <li><b>Distributed Systems & Multi-Tenant SaaS:</b> Engineering asynchronous, high-concurrency backend infrastructures with FastAPI, SQLAlchemy 2.0, and robust tenant-isolated PostgreSQL databases.</li>
         <li><b>Production-Grade AI & Edge CV:</b> Constructing end-to-end computer vision pipelines (YOLO-OBB/Pose) and custom sequential models structured for real-time inference in critical environments.</li>
@@ -68,7 +68,7 @@
         <li><b>Spatial Computing & Telemetry:</b> Designing custom multi-stop routing logic, geographic validation systems (OSRM), and live operational telemetry pipelines via persistent WebSockets in Rotakur.</li>
       </ul>
       <br />
-      <h3>🧠 Ongoing Development & Discipline</h3>
+      <h3>Ongoing Development & Discipline</h3>
       <ul>
         <li><b>Agentic Engineering:</b> Architecting strict system guidelines and advanced prompt workflows to orchestrate AI-assisted development across large-scale production codebases.</li>
         <li><b>Strategic System Foresight:</b> Translating professional-level chess foresight (15+ years, 2000 FIDE) into software engineering — anticipating architectural edge cases, race conditions, and system bottlenecks before they occur.</li>
