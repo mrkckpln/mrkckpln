@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="top" width="54%">
-      <h3>Selected Projects</h3>
+      <h3>Core Engineering Projects</h3>
       <ul>
         <li>
           <a href="https://github.com/OTU-Capstone-Project"><b>Rotakur: Unified Mobility & Fleet SaaS</b></a>
